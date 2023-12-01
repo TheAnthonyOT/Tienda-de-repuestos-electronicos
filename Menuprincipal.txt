@@ -1,0 +1,4 @@
+1. Comprar
+2. Guardar factura en el sistema
+3. Ver contenido del archivo CSV
+4. Salir del programa
